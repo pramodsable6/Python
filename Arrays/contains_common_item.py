@@ -1,4 +1,4 @@
-def comtains_common_item(arr1, arr2):
+def contains_common_item(arr1, arr2):
     set1 = set()
     for i in arr1:                              # O(a)
         if i not in set1:                       # O(1)
