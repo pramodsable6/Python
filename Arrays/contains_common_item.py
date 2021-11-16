@@ -1,4 +1,8 @@
 # Check if two arrays have a common item
+# Questions to ask:
+    # Can we have different data types in the array?
+    # What is the length of arr1 and arr2? Are they going to be of same length?
+    # Do we want a time optimized solution or a space(memory) optimized solution?
 
 # Time Complexity O(a * b) and Space complexity O(1)
 def contains_common_item(arr1, arr2):
