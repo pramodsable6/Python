@@ -8,3 +8,4 @@ o/p:
 <class 'int'>
 ```
 - 'class' keyword allows you to define your own classes. Which can have its own attributes and methods.
+- Classes are useful since different people can work on different part(class) of the project and then all the parts can be combined later.
