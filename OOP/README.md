@@ -12,6 +12,7 @@ o/p:
 
 - 4 pillars of OOP
   - Encapsulation: all the attributes and methods of a class are packaged in a blueprint
-  - Abstraction: class methods and attributes can be accessed without worrying about how they are implemented
+  - Abstraction: class methods and attributes can be accessed without worrying about how they are implemented.
+    Public and Private types are used to hide away information and give access to only what we want to.
   - Inheritance: child - parent relationship is possible. Child classes inherit the properties of parent class.
   - Polymorphism: method and operator overloading and overriding
