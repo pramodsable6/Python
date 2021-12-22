@@ -9,3 +9,6 @@ def towers_of_hanoi(n, source, destination, auxiliary):
 
 
 towers_of_hanoi(3, 'A', 'C', 'B')
+
+# Time complexity = O(2^n)
+# This is a Geometric series with Sum = 2^n - 1
