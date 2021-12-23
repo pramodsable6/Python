@@ -23,3 +23,5 @@ def is_palindrome(input_string):
 
 if __name__ == "__main__":
     print(is_palindrome('madam'))
+
+# NOTE: reverse string can also be achieved using string1[::-1]
