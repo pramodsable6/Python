@@ -12,3 +12,4 @@ towers_of_hanoi(3, 'A', 'C', 'B')
 
 # Time complexity = O(2^n)
 # This is a Geometric series with Sum = 2^n - 1
+# i.e. number of steps to required to solve the puzzle is 2^n - 1 where n is number of disks
