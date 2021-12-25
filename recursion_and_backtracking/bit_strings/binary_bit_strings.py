@@ -1,3 +1,4 @@
+# Generate all binary strings with n bits.
 def bit_strings(n):
     if n == 0:
         return []
