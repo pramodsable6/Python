@@ -1,4 +1,4 @@
-def into_to_ip(n):
+def int_to_ip(n):
     first = n % 256
     n = n >> 8
     second = n % 256
@@ -12,4 +12,4 @@ def into_to_ip(n):
 
     return '.'.join(result)
 
-print(into_to_ip(1690900060))
+print(int_to_ip(1690900060))
