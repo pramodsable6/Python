@@ -1,4 +1,6 @@
 # https://leetcode.com/problems/binary-search/
+# O(log(n)) time | O(1) space
+
 def binary_search(nums, target):
   i = 0
   j = len(nums) - 1
